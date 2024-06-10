@@ -1,7 +1,7 @@
 # Excel: Sales and Finance Analytics
 ## Problem Statement:
 
-AtliQ Hardwares is a hardware company which sells hardware devices and accessories. Their business model consists of manufacturing the devices and shipping it to their warehouses of different region and selling the items through offline and online retailers, distributors and from their authorised exclusive store. The objective is to create sales and finance reports for AtliQ Hardware based on the requirements provided by them.
+AtliQ Hardwares is a hardware company which sells hardware devices and accessories. Their business model consists of manufacturing the devices and shipping it to their warehouses of different region and selling the items through offline and online retailers, distributors and from their authorised exclusive store. AtliQ Hardware has been piled up with excel files. They need insights from the excel files to improve specific areas in their business. The objective is to create sales and finance reports for AtliQ Hardware based on the requirements provided by them.
 
 
 ## Sales Analytics Overview:
